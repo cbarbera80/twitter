@@ -10,6 +10,17 @@
   <%= @user.email %>
 </p>
 
+<h1>List of tweet</h1>
+
+ <ul>
+   <% @user.microposts.each do |micropost| %>
+       <li>
+         <%=micropost.content%>
+       </li>
+   <%end%>
+
+ </ul>
+
 
 <%= link_to 'Edit', edit_user_path(@user) %> |
 <%= link_to 'Back', users_path %>
