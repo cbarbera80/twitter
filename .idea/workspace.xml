@@ -7,8 +7,8 @@
     <file path="/micropost.rb" changelist="747ab6c8-3688-418b-a5bc-a730f9f5e7c9" time="1376406461494" ignored="false" />
     <file path="/user.rb" changelist="747ab6c8-3688-418b-a5bc-a730f9f5e7c9" time="1376406445079" ignored="false" />
     <file path="/show.html.erb" changelist="747ab6c8-3688-418b-a5bc-a730f9f5e7c9" time="1376408222527" ignored="false" />
-    <file path="/Gemfile" changelist="747ab6c8-3688-418b-a5bc-a730f9f5e7c9" time="1376466081459" ignored="false" />
-    <file path="/database.yml" changelist="747ab6c8-3688-418b-a5bc-a730f9f5e7c9" time="1376466187528" ignored="false" />
+    <file path="/Gemfile" changelist="747ab6c8-3688-418b-a5bc-a730f9f5e7c9" time="1376467990025" ignored="false" />
+    <file path="/database.yml" changelist="747ab6c8-3688-418b-a5bc-a730f9f5e7c9" time="1376467869455" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +67,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="11" selection-start="40" selection-end="40" vertical-scroll-proportion="0.024285715">
+            <state line="15" column="2" selection-start="207" selection-end="207" vertical-scroll-proportion="0.3642857">
               <folding />
             </state>
           </provider>
@@ -76,7 +76,7 @@
       <file leaf-file-name="database.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="34" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0">
+            <state line="19" column="33" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -493,14 +493,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="34" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0">
+        <state line="19" column="33" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="11" selection-start="40" selection-end="40" vertical-scroll-proportion="0.024285715">
+        <state line="15" column="2" selection-start="207" selection-end="207" vertical-scroll-proportion="0.3642857">
           <folding />
         </state>
       </provider>
